@@ -1,0 +1,110 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 5999946,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-5999946.onnx",
+                "reward": null,
+                "creation_time": 1696480529.8259969,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-5999946.pt"
+                ]
+            },
+            {
+                "steps": 6499950,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-6499950.onnx",
+                "reward": 112.9090909090909,
+                "creation_time": 1696481186.4315813,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-6499950.pt"
+                ]
+            },
+            {
+                "steps": 6999964,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-6999964.onnx",
+                "reward": null,
+                "creation_time": 1696481857.8366833,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-6999964.pt"
+                ]
+            },
+            {
+                "steps": 7499991,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-7499991.onnx",
+                "reward": 88.76470588235294,
+                "creation_time": 1696482514.489663,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-7499991.pt"
+                ]
+            },
+            {
+                "steps": 7999939,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-7999939.onnx",
+                "reward": 28.0,
+                "creation_time": 1696483183.921371,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-7999939.pt"
+                ]
+            },
+            {
+                "steps": 8499958,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-8499958.onnx",
+                "reward": 120.1,
+                "creation_time": 1696483840.128559,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-8499958.pt"
+                ]
+            },
+            {
+                "steps": 8999968,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-8999968.onnx",
+                "reward": 140.5,
+                "creation_time": 1696484511.8175871,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-8999968.pt"
+                ]
+            },
+            {
+                "steps": 9499949,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-9499949.onnx",
+                "reward": 87.88888888888889,
+                "creation_time": 1696485168.5828168,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-9499949.pt"
+                ]
+            },
+            {
+                "steps": 9999967,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-9999967.onnx",
+                "reward": 73.0,
+                "creation_time": 1696485839.9173663,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-9999967.pt"
+                ]
+            },
+            {
+                "steps": 10000031,
+                "file_path": "results\\TanhSGD\\CarDriving\\CarDriving-10000031.onnx",
+                "reward": 73.0,
+                "creation_time": 1696485839.9813654,
+                "auxillary_file_paths": [
+                    "results\\TanhSGD\\CarDriving\\CarDriving-10000031.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000031,
+            "file_path": "results\\TanhSGD\\CarDriving.onnx",
+            "reward": 73.0,
+            "creation_time": 1696485839.9813654,
+            "auxillary_file_paths": [
+                "results\\TanhSGD\\CarDriving\\CarDriving-10000031.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

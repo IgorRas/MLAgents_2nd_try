@@ -1,0 +1,110 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 5999987,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-5999987.onnx",
+                "reward": null,
+                "creation_time": 1696389704.128742,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-5999987.pt"
+                ]
+            },
+            {
+                "steps": 6499991,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-6499991.onnx",
+                "reward": 174.5,
+                "creation_time": 1696390355.5127873,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-6499991.pt"
+                ]
+            },
+            {
+                "steps": 6999946,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-6999946.onnx",
+                "reward": 141.0,
+                "creation_time": 1696391022.0077806,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-6999946.pt"
+                ]
+            },
+            {
+                "steps": 7499952,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-7499952.onnx",
+                "reward": 153.9090909090909,
+                "creation_time": 1696391673.3824303,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-7499952.pt"
+                ]
+            },
+            {
+                "steps": 7999998,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-7999998.onnx",
+                "reward": null,
+                "creation_time": 1696392339.4056067,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-7999998.pt"
+                ]
+            },
+            {
+                "steps": 8499995,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-8499995.onnx",
+                "reward": 100.9090909090909,
+                "creation_time": 1696392990.9521031,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-8499995.pt"
+                ]
+            },
+            {
+                "steps": 8999973,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-8999973.onnx",
+                "reward": 172.0,
+                "creation_time": 1696393656.3695068,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-8999973.pt"
+                ]
+            },
+            {
+                "steps": 9499938,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-9499938.onnx",
+                "reward": 99.7,
+                "creation_time": 1696394306.6912024,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-9499938.pt"
+                ]
+            },
+            {
+                "steps": 9999965,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-9999965.onnx",
+                "reward": null,
+                "creation_time": 1696394972.4403236,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-9999965.pt"
+                ]
+            },
+            {
+                "steps": 10000029,
+                "file_path": "results\\ELU_SGD\\CarDriving\\CarDriving-10000029.onnx",
+                "reward": null,
+                "creation_time": 1696394972.5085716,
+                "auxillary_file_paths": [
+                    "results\\ELU_SGD\\CarDriving\\CarDriving-10000029.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000029,
+            "file_path": "results\\ELU_SGD\\CarDriving.onnx",
+            "reward": null,
+            "creation_time": 1696394972.5085716,
+            "auxillary_file_paths": [
+                "results\\ELU_SGD\\CarDriving\\CarDriving-10000029.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

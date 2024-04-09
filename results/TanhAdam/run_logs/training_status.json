@@ -1,0 +1,110 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 5999974,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-5999974.onnx",
+                "reward": 497.0,
+                "creation_time": 1696274813.313766,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-5999974.pt"
+                ]
+            },
+            {
+                "steps": 6499975,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-6499975.onnx",
+                "reward": 302.6666666666667,
+                "creation_time": 1696275483.8397846,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-6499975.pt"
+                ]
+            },
+            {
+                "steps": 6999958,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-6999958.onnx",
+                "reward": null,
+                "creation_time": 1696276164.9602976,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-6999958.pt"
+                ]
+            },
+            {
+                "steps": 7499954,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-7499954.onnx",
+                "reward": 279.2857142857143,
+                "creation_time": 1696276829.0167906,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-7499954.pt"
+                ]
+            },
+            {
+                "steps": 7999954,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-7999954.onnx",
+                "reward": null,
+                "creation_time": 1696277509.9369037,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-7999954.pt"
+                ]
+            },
+            {
+                "steps": 8499976,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-8499976.onnx",
+                "reward": 402.4,
+                "creation_time": 1696278175.3415954,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-8499976.pt"
+                ]
+            },
+            {
+                "steps": 8999961,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-8999961.onnx",
+                "reward": null,
+                "creation_time": 1696278857.1633112,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-8999961.pt"
+                ]
+            },
+            {
+                "steps": 9499995,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-9499995.onnx",
+                "reward": 107.125,
+                "creation_time": 1696279521.2097166,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-9499995.pt"
+                ]
+            },
+            {
+                "steps": 9999945,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-9999945.onnx",
+                "reward": 53.0,
+                "creation_time": 1696280191.456554,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-9999945.pt"
+                ]
+            },
+            {
+                "steps": 10000009,
+                "file_path": "results\\TanhAdam\\CarDriving\\CarDriving-10000009.onnx",
+                "reward": 53.0,
+                "creation_time": 1696280191.5235593,
+                "auxillary_file_paths": [
+                    "results\\TanhAdam\\CarDriving\\CarDriving-10000009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000009,
+            "file_path": "results\\TanhAdam\\CarDriving.onnx",
+            "reward": 53.0,
+            "creation_time": 1696280191.5235593,
+            "auxillary_file_paths": [
+                "results\\TanhAdam\\CarDriving\\CarDriving-10000009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

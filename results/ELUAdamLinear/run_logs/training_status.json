@@ -1,0 +1,110 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 5999984,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-5999984.onnx",
+                "reward": null,
+                "creation_time": 1703572993.170913,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-5999984.pt"
+                ]
+            },
+            {
+                "steps": 6499959,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-6499959.onnx",
+                "reward": 315.2857142857143,
+                "creation_time": 1703573674.0748224,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-6499959.pt"
+                ]
+            },
+            {
+                "steps": 6999989,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-6999989.onnx",
+                "reward": 272.0,
+                "creation_time": 1703574370.1633093,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-6999989.pt"
+                ]
+            },
+            {
+                "steps": 7499984,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-7499984.onnx",
+                "reward": 195.25,
+                "creation_time": 1703575050.02086,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-7499984.pt"
+                ]
+            },
+            {
+                "steps": 7999997,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-7999997.onnx",
+                "reward": 141.0,
+                "creation_time": 1703575744.90886,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-7999997.pt"
+                ]
+            },
+            {
+                "steps": 8499946,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-8499946.onnx",
+                "reward": 439.5,
+                "creation_time": 1703576423.7474217,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-8499946.pt"
+                ]
+            },
+            {
+                "steps": 8999960,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-8999960.onnx",
+                "reward": null,
+                "creation_time": 1703577118.8267233,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-8999960.pt"
+                ]
+            },
+            {
+                "steps": 9499996,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-9499996.onnx",
+                "reward": 908.25,
+                "creation_time": 1703577797.814745,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-9499996.pt"
+                ]
+            },
+            {
+                "steps": 9999973,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-9999973.onnx",
+                "reward": null,
+                "creation_time": 1703578492.4539642,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-9999973.pt"
+                ]
+            },
+            {
+                "steps": 10000037,
+                "file_path": "results\\ELUAdamLinear\\CarDriving\\CarDriving-10000037.onnx",
+                "reward": null,
+                "creation_time": 1703578492.5269644,
+                "auxillary_file_paths": [
+                    "results\\ELUAdamLinear\\CarDriving\\CarDriving-10000037.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000037,
+            "file_path": "results\\ELUAdamLinear\\CarDriving.onnx",
+            "reward": null,
+            "creation_time": 1703578492.5269644,
+            "auxillary_file_paths": [
+                "results\\ELUAdamLinear\\CarDriving\\CarDriving-10000037.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

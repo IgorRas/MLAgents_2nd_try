@@ -1,0 +1,110 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 5999952,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-5999952.onnx",
+                "reward": 13.9,
+                "creation_time": 1696132592.8904324,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-5999952.pt"
+                ]
+            },
+            {
+                "steps": 6499992,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-6499992.onnx",
+                "reward": 12.132743362831858,
+                "creation_time": 1696133255.337029,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-6499992.pt"
+                ]
+            },
+            {
+                "steps": 6999997,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-6999997.onnx",
+                "reward": 14.090909090909092,
+                "creation_time": 1696133943.7531033,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-6999997.pt"
+                ]
+            },
+            {
+                "steps": 7499970,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-7499970.onnx",
+                "reward": 13.294642857142858,
+                "creation_time": 1696134616.4532962,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-7499970.pt"
+                ]
+            },
+            {
+                "steps": 7999942,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-7999942.onnx",
+                "reward": 13.153846153846153,
+                "creation_time": 1696135304.0986478,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-7999942.pt"
+                ]
+            },
+            {
+                "steps": 8499937,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-8499937.onnx",
+                "reward": 12.296610169491526,
+                "creation_time": 1696135975.3880603,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-8499937.pt"
+                ]
+            },
+            {
+                "steps": 8999995,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-8999995.onnx",
+                "reward": 10.61111111111111,
+                "creation_time": 1696136663.4552999,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-8999995.pt"
+                ]
+            },
+            {
+                "steps": 9499991,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-9499991.onnx",
+                "reward": 11.834710743801653,
+                "creation_time": 1696137336.2472658,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-9499991.pt"
+                ]
+            },
+            {
+                "steps": 9999984,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-9999984.onnx",
+                "reward": 14.0,
+                "creation_time": 1696138024.2108955,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-9999984.pt"
+                ]
+            },
+            {
+                "steps": 10000048,
+                "file_path": "results\\ADAM_LINEAR\\CarDriving\\CarDriving-10000048.onnx",
+                "reward": 14.0,
+                "creation_time": 1696138024.2799554,
+                "auxillary_file_paths": [
+                    "results\\ADAM_LINEAR\\CarDriving\\CarDriving-10000048.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000048,
+            "file_path": "results\\ADAM_LINEAR\\CarDriving.onnx",
+            "reward": 14.0,
+            "creation_time": 1696138024.2799554,
+            "auxillary_file_paths": [
+                "results\\ADAM_LINEAR\\CarDriving\\CarDriving-10000048.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

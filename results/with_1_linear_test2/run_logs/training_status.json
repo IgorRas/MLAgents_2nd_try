@@ -1,0 +1,29 @@
+{
+    "CarDriving": {
+        "checkpoints": [
+            {
+                "steps": 27734,
+                "file_path": "results\\with_1_linear_test2\\CarDriving\\CarDriving-27734.onnx",
+                "reward": null,
+                "creation_time": 1702942895.4397159,
+                "auxillary_file_paths": [
+                    "results\\with_1_linear_test2\\CarDriving\\CarDriving-27734.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 27734,
+            "file_path": "results\\with_1_linear_test2\\CarDriving.onnx",
+            "reward": null,
+            "creation_time": 1702942895.4397159,
+            "auxillary_file_paths": [
+                "results\\with_1_linear_test2\\CarDriving\\CarDriving-27734.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
